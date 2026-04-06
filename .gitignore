@@ -1,0 +1,26 @@
+# Compiled files
+*.class
+target/
+*.jar
+*.war
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+application.properties
+db.properties
+*.key
+*.pem
